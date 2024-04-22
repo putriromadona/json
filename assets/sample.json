@@ -1,0 +1,31 @@
+{
+    "name": "ditateum - gurukoding",
+    "age": 20,
+    "hobby": [
+        "Coding",
+        "Main game",
+        "Membaca"
+    ],
+    "github":{
+        "username": "@gurukoding",
+        "repositories" : 2897,
+        "isGDE": true
+    },
+    "articles": [
+    {
+        "id": 1,
+        "title": "God of War",
+        "subtitle": "that is movie"
+    },
+    {
+        "id": 2,
+        "title": "Harvest Moon",
+        "subtitle": "that is game"
+    },
+    {
+        "id": 3,
+        "title": "avanger",
+        "subtitle": "that is hero"
+    }
+    ]
+} 
